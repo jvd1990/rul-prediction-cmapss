@@ -1,0 +1,5 @@
+Outcome,Count
+Correct alert,17
+False alert,1
+Missed maintenance need,8
+Correct no-alert decision,74
